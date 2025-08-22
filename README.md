@@ -1,10 +1,6 @@
-## Codeforces Submissions
-
-*Auto-generated with ❤️ using [Codeforces Submission Fetcher](https://github.com/Andrew-Velox/Codeforces-Submission-Fetcher-Extension)*
-
 ## Introduction
 
-A repository to keep track of problem solving practice, containing solutions from platforms:
+A repository to keep track of my problem-solving practice, containing solutions from platforms:
 
 • **Codeforces**
 
